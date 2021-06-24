@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128+Text&display=swap'); 
+
+body {
+  color: white;
+  font-size: 16px;
+  overflow: hidden;
+}
+ 
+ 
+.mycontainer {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 100px 100px;
+    text-align: center;
+}
+
+h1
+{
+    font-size: 3rem;
+    font-family: 'Staatliches', cursive;
+    font-weight: lighter;
+}
+ 
+.mywebapp {
+    margin: 0px auto;
+}
+ 
+#textbox {
+    width: 27rem;
+    height: 15rem;
+    font-family: 'Roboto', sans-serif;
+    padding: 2rem 2rem;
+    border: none;
+    margin-top: 1rem;
+}
+
+#textbox:active
+{
+    outline: none;
+    border: none;
+}
+
+.mithesh
+{
+  float: right;
+  margin-top: 2rem;
+  margin-right: 2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  font-family: 'Libre Barcode 128 Text', cursive;
+}
+
+
+#instructions
+{
+    font-family: 'Alata', sans-serif;
+    margin-top: 2rem;
+}
+
+#start-btn
+{
+    margin-top: 2.2rem;
+    padding: 1rem 4rem;
+    border-radius: 3rem;
+    font-family: 'Alata', sans-serif;
+    font-size: 1rem;
+    border: none;
+    background-color: #0b3544;
+    color: white;
+}
+
+#start-btn:hover
+{
+    background-color: #f0e199;
+    color: black;
+}
+ 
