@@ -1,5 +1,5 @@
 # Speech To Text Converter
-✏️ Speech to text converter is developed using html, css and javascript ❗
+✏️ Speech to text converter developed using html, css and javascript ❗
 
 # Project deployed at
 
